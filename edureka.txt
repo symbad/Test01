@@ -1,0 +1,1 @@
+Ovo je moj prvi repo file napravljen radi ponavljana funkcionalnosti git-a/github-a
